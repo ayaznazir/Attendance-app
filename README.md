@@ -12,6 +12,8 @@
 <img src="images/mark.png" alt="phone image" width="200px" />
 </div>
 
+//comment
+
 # Contributions
 Contributions are welcome. Please read the [contributions guide](CONTRIBUTING.md) for more information.
 
